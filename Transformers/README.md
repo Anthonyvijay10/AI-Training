@@ -5,9 +5,6 @@ This repository contains a collection of notebooks demonstrating the fine-tuning
 | S.No | Topics                                                     | Notebooks                                              | Link                                                                                               |
 |------|------------------------------------------------------------|--------------------------------------------------------|----------------------------------------------------------------------------------------------------|
 | 1    | Text Classification using Perceiver                        | Fine_tune_Perceiver_for_text_classification.ipynb      | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)                   |
-
-> This notebook demonstrates how to fine-tune the Perceiver model for a multiclass text classification task. It covers data preprocessing, model training, evaluation, and saving the trained model.
-
 | 2    | Multiclass Text Classification using DistilBERT on Emotion Dataset | Fine-tune_DistilBERT_on_Emotion_Dataset_Multiclass_Text_Classification.ipynb | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | 3    | Image Classification using Vision Transformer on CIFAR-10  | Fine_tuning_the_Vision_Transformer_on_CIFAR_10.ipynb   | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | 4    | Semantic Segmentation using SegFormer on Custom Dataset    | Fine_tune_SegFormer_on_custom_dataset.ipynb            | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
